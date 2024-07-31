@@ -5,7 +5,7 @@ meu nome é Luiz Fernando da Silva
 
 •Tenho 16 anos 
 
-•Sou estudante da altura/caio prado
+•Sou estudante da alura/caio prado
 
 •Estou me desenvolver na línguagem em Java Scritp 
 
