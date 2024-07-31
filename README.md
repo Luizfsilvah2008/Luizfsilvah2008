@@ -3,9 +3,8 @@
 meu nome é Luiz Fernando da Silva 
 
 
-•Tenho 16 anos 
 
-•Sou estudante da alura/caio prado
+•Sou estudante da alura
 
 •Estou me desenvolver na línguagem em Java Scritp 
 
